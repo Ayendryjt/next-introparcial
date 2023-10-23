@@ -5,9 +5,9 @@ export const FooterLink = (props: { linkText: string }) => {
     <>
       <a
         className=""
-        href="https://github.com/" //añadir link de nuestro github
-        rel="nofollow noreferrer" //esto es para que se abra una nueva pestaña
-        target="_blank"           //y mejorar la seguridad
+        href="https://github.com/Ayendryjt/next-introparcial.git" 
+        rel="nofollow noreferrer" //
+        target="_blank"           //
       >
         {props.linkText}
         <picture className="">
