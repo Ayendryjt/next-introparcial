@@ -15,7 +15,7 @@ export const FooterLink = (props: { linkText: string }) => {
               width="35"
               height="10"
               loading="lazy"
-              src="" //añadir imagen
+              src="C:\Users\adm\Downloads\next-intro-parcial\next-intro-parcial\images\25231.png" //añadir imagen
               alt="github logo"
             />
         </picture>
