@@ -1,6 +1,6 @@
-@tailwindcss /base;
-@tailwindcss /components;
-@tailwindcss /utilities;
+@import "/base";
+@import "/components";
+@import "/utilities";
 
 :root {
   --foreground-rgb: 0, 0, 0;
