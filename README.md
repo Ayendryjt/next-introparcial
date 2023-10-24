@@ -5,3 +5,5 @@
 ## Bianny Michelle Peña Rosario 2022-0443
 
 ## Ismanol Ramirez 2020-0098
+-- I work with global.css, footer, layout.
+-- Pull request: 3
