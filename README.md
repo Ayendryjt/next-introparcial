@@ -1,6 +1,8 @@
 # Datos de los estudiantes del grupo
 
 ## Ayendry Radhames Jimenez 2020-0692
+<h4>github icon + change github address</h4>
+<h4>pull reuests two</h4>
 
 ## Bianny Michelle Peña Rosario 2022-0443
 <h4>Worked on: Footter, page, heather.</h4>
